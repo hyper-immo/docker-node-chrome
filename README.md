@@ -2,9 +2,12 @@
 
 Dockerfile for nodejs + chrome.
 
+## Fork of:
+https://github.com/amio/docker-node-chrome
+
 ## On docker hub
 
-https://hub.docker.com/r/amio/node-chrome/
+https://hub.docker.com/r/kfrysztak/node-chrome/
 
 This [Dockerfile](/Dockerfile) contains:
 
