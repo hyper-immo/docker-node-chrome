@@ -11,7 +11,7 @@ https://hub.docker.com/r/hyperimmo/node-chrome/
 
 This [Dockerfile](/Dockerfile) contains:
 
-- node: 10
+- node: 14.16.0
 - npm: (bundled with node 10)
 - google-chrome: 66
 
