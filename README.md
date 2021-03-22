@@ -7,7 +7,7 @@ https://github.com/amio/docker-node-chrome
 
 ## On docker hub
 
-https://hub.docker.com/r/kfrysztak/node-chrome/
+https://hub.docker.com/r/hyperimmo/node-chrome/
 
 This [Dockerfile](/Dockerfile) contains:
 
@@ -15,6 +15,6 @@ This [Dockerfile](/Dockerfile) contains:
 - npm: (bundled with node 10)
 - google-chrome: 66
 
-## Lincense
+## License
 
 MIT @ [Amio](https://github.com/amio)
